@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TableViewTest
+//  Homework6
 //
-//  Created by Teacher on 19.10.2020.
+//  Created by Олег Романов on 24.10.2020.
 //
 
 import UIKit
